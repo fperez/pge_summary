@@ -1,5 +1,7 @@
 # PG&E Cost and Usage Summaries for Gas and Electricity
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fperez/pge_summary/HEAD?labpath=pge_summary.ipynb)
+
 This notebook creates a summary report of your electrical and natural gas billing data based on the format provided by PG&E, the California utility company. You should be able to easily adapt it to similar data in other formats.  I was frustrated by the limited information provided by PG&E to help me understand my energy consumption, so I wrote this for my own purposes. Use at your own risk.
 
 If you run this notebook with your own data files, you should get a report with information like the one below (real data, values obscured for privacy reasons):
