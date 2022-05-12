@@ -4,6 +4,8 @@
 
 This notebook creates a summary report of your electrical and natural gas billing data based on the format provided by PG&E, the California utility company. You should be able to easily adapt it to similar data in other formats.  I was frustrated by the limited information provided by PG&E to help me understand my energy consumption, so I wrote this for my own purposes. Use at your own risk.
 
+You can use this notebook via Binder by uploading your PG&E data files directly into the binder - they will get deleted once the instance is closed (just don't provide the actual URL of the running instance to anyone if you don't want them to see your personal data).  In JupyterLab, you can upload your CSV files via drag-and-drop into the left-side file manager panel.
+
 If you run this notebook with your own data files, you should get a report with information like the one below (real data, values obscured for privacy reasons):
 
 ![](images/pge_report_1.png)
